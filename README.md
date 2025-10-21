@@ -7,7 +7,7 @@ Aspiring **Software Engineer** & Computer Engineering student at **Macquarie Uni
 ### 🔧 Tech Stack
 - **Languages:** Java, C, Python, JavaScript, SQL  
 - **Web:** React.js, HTML, Tailwind CSS, Vite  
-- **Tools:** Git, GitHub, Swing, VSCode, IntelliJ
+- **Tools:** Git, GitHub, Swing, VSCode
 
 ---
 
